@@ -1,0 +1,8 @@
+.main-navigation-wrapper { background: #000000; }
+.top-search-area a i{ color: #000000; }
+.top-search-area a:hover i{             }
+.nav-menu .sub-menu, .nav-menu .children {  background: #000000; }
+.nav-menu .sub-menu a:hover { color: #dddddd; }
+#footer-widget-area { background: #f6f6f6; }
+#footer-widget-area, #footer-widget-area p { color: #1B193B; }
+body { background: #f6f6f6; }	

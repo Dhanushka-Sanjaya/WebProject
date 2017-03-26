@@ -1,0 +1,12 @@
+.main-navigation-wrapper { background: #ffffff; }
+.nav-menu > li > a, #top-social-items a, .top-search-area a { color: #000000; }
+.slicknav_menu .slicknav_icon-bar { background-color: #000000; }
+.top-search-area a i{background: #000000;color: #ffffff; }
+.top-search-area a:hover i{background: #6d6d6d; color: #000000;}
+.main-navigation .nav-menu > li > a:hover, .main-navigation .nav-menu > li.current_page_item > a, .main-navigation .nav-menu > li.current_page_ancestor > a, .main-navigation .nav-menu > li.current-menu-item > a, .main-navigation .nav-menu > li:hover > a, #top-social-items a:hover { color: #6d6d6d; }
+.nav-menu .sub-menu, .nav-menu .children {  background: #000000; }
+.nav-menu .sub-menu a:hover { color: #dddddd; }
+#footer-widget-area { background: #f6f6f6; }
+#footer-widget-area, #footer-widget-area p { color: #1B193B; }
+body { background: #f6f6f6; }
+	

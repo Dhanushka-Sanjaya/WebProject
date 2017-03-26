@@ -1,0 +1,2596 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: elletta\n"
+"POT-Creation-Date: 2016-12-09 10:54+0100\n"
+"PO-Revision-Date: 2016-12-09 10:57+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9
+#, fuzzy
+msgid "404"
+msgstr "404"
+
+#: 404.php:10
+#, fuzzy
+msgid "Page not Found"
+msgstr "﻿Página no encontrada…"
+
+#: 404.php:34 search.php:73 templates/layout-full.php:158
+#, fuzzy
+msgid "You Might Also Like"
+msgstr "Podría interesarte"
+
+#: category.php:8
+#, fuzzy, php-format
+msgid "Posts for <strong>%s</strong> Category"
+msgstr "Posts para la categoría <strong>%s</strong>"
+
+#: category.php:42 tag.php:43
+msgid "We Can't Find Anything For"
+msgstr ""
+
+#: category.php:43 tag.php:44
+msgid "Would You Like To Do More Search?"
+msgstr ""
+
+#: comments.php:10
+#, fuzzy
+msgid "No Comment"
+msgstr "Sin comentarios"
+
+#: comments.php:10
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: comments.php:10
+#, fuzzy
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments.php:28
+#, fuzzy
+msgid "Please fill the required field."
+msgstr "Por favor rellene los campos obligatorios."
+
+#: comments.php:28
+#, fuzzy
+msgid "Please enter a valid email address."
+msgstr "Por favor, introduzca una dirección de email válida."
+
+#: comments.php:34
+#, fuzzy
+msgid "Your Name"
+msgstr "Nombre"
+
+#: comments.php:36
+msgid "Your Name (No Keywords)"
+msgstr ""
+
+#: comments.php:41
+#, fuzzy
+msgid "Your Email"
+msgstr "Email"
+
+#: comments.php:48
+#, fuzzy
+msgid "Website"
+msgstr "Página web"
+
+#: comments.php:55
+#, fuzzy
+msgid "Let us know what you have to say:"
+msgstr "Vamos a conocer lo que tiene que decir:"
+
+#: comments.php:56
+msgid ""
+"Express your thoughts, idea or write a feedback by clicking here & start an "
+"awesome comment"
+msgstr ""
+
+#: comments.php:59
+msgid "Please Post Your Comments & Reviews"
+msgstr ""
+
+#: customizer/class/customizer-classes.php:76
+#, fuzzy
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleccione &mdash;"
+
+#: customizer/class/customizer-classes.php:196
+#, fuzzy
+msgid "&mdash; Default Font &mdash;"
+msgstr "&mdash; Fuente por defecto &mdash;"
+
+#: customizer/customizer-colors.php:15
+#, fuzzy
+msgid "Custom Colors"
+msgstr "Colores personalizados"
+
+#: customizer/customizer-colors.php:29 customizer/customizer-footer.php:223
+#, fuzzy
+msgid "Background Color"
+msgstr "Color fondo"
+
+#: customizer/customizer-colors.php:47
+#, fuzzy
+msgid "Body Text Color"
+msgstr "Color texto"
+
+#: customizer/customizer-colors.php:65
+#, fuzzy
+msgid "Titles Text Color"
+msgstr "Color texto - títulos"
+
+#: customizer/customizer-colors.php:83
+#, fuzzy
+msgid "Title Widgets Text Color"
+msgstr "Color texto - título widget"
+
+#: customizer/customizer-colors.php:101
+#, fuzzy
+msgid "Link Text Color"
+msgstr "Color texto - link"
+
+#: customizer/customizer-colors.php:119
+#, fuzzy
+msgid "Link Hover Text Color"
+msgstr "Color texto - link hover"
+
+#: customizer/customizer-colors.php:137
+#, fuzzy
+msgid "Button Read More/Pagination Color"
+msgstr "Color botón leer más/paginación"
+
+#: customizer/customizer-colors.php:155
+#, fuzzy
+msgid "Button Read More/Pagination Text Color"
+msgstr "Color texto leer más/paginación"
+
+#: customizer/customizer-colors.php:173
+#, fuzzy
+msgid "Other Buttons Color"
+msgstr "Color otros botones"
+
+#: customizer/customizer-colors.php:191
+#, fuzzy
+msgid "Other Buttons Text Color"
+msgstr "Color texto otros colores"
+
+#: customizer/customizer-colors.php:209
+#, fuzzy
+msgid "Tags/Categories Color"
+msgstr "Color categorías/tags"
+
+#: customizer/customizer-colors.php:227
+#, fuzzy
+msgid "Tags/Categories Text Color"
+msgstr "Color texto categorías/tags"
+
+#: customizer/customizer-colors.php:245
+msgid "Comments/Category Title Background Color"
+msgstr ""
+
+#: customizer/customizer-custom-css.php:15
+#: customizer/customizer-custom-css.php:29
+msgid "Custom CSS"
+msgstr ""
+
+#: customizer/customizer-custom-javascript.php:15
+msgid "Custom Javascript"
+msgstr ""
+
+#: customizer/customizer-custom-javascript.php:29
+msgid "Header Javascript"
+msgstr ""
+
+#: customizer/customizer-custom-javascript.php:48
+msgid "Footer Javascript"
+msgstr ""
+
+#: customizer/customizer-events.php:15
+msgid "Events Calendar Settings"
+msgstr ""
+
+#: customizer/customizer-events.php:29
+msgid "Sidebar Events Calendar"
+msgstr ""
+
+#: customizer/customizer-events.php:31
+msgid "Configure Events Calendar Sidebar"
+msgstr ""
+
+#: customizer/customizer-featured-area.php:15
+#, fuzzy
+msgid "Featured Area Settings"
+msgstr "Configuración destacados"
+
+#: customizer/customizer-featured-area.php:29
+#, fuzzy
+msgid "Show Featured Area"
+msgstr "Mostrar destacados"
+
+#: customizer/customizer-featured-area.php:46
+#, fuzzy
+msgid "Featured Area Columns"
+msgstr "Disposición de los destacados"
+
+#: customizer/customizer-featured-area.php:48
+#, fuzzy
+msgid "Configure Featured Area Columns"
+msgstr "Configure la disposición de los destacados"
+
+#: customizer/customizer-featured-area.php:70
+#: customizer/customizer-slider.php:209
+#, fuzzy
+msgid "Select Category"
+msgstr "Seleccione categoría"
+
+#: customizer/customizer-featured-area.php:88 customizer/customizer-post.php:51
+#: customizer/customizer-slider.php:157
+#, fuzzy
+msgid "Show Categories"
+msgstr "Mostrar categoría"
+
+#: customizer/customizer-featured-area.php:106
+#: customizer/customizer-post.php:69 customizer/customizer-slider.php:174
+#, fuzzy
+msgid "Show Date"
+msgstr "Mostrar fecha"
+
+#: customizer/customizer-featured-area.php:123
+#, fuzzy
+msgid "Title Featured Font Size"
+msgstr "Tamaño fuente - título destacados"
+
+#: customizer/customizer-fonts.php:14
+#, fuzzy
+msgid "Custom Fonts"
+msgstr "Tipos de letra personalizados"
+
+#: customizer/customizer-fonts.php:24
+msgid "Configuration Body Font"
+msgstr ""
+
+#: customizer/customizer-fonts.php:41
+#, fuzzy
+msgid "Body Font"
+msgstr "Fuente"
+
+#: customizer/customizer-fonts.php:59
+msgid "Body Font Weight"
+msgstr ""
+
+#: customizer/customizer-fonts.php:88
+#, fuzzy
+msgid "Body Font Size"
+msgstr "Tamaño fuente"
+
+#: customizer/customizer-fonts.php:101
+msgid "Configuration Titles Font"
+msgstr ""
+
+#: customizer/customizer-fonts.php:119
+#, fuzzy
+msgid "Titles Font"
+msgstr "Fuente - título"
+
+#: customizer/customizer-fonts.php:137
+msgid "Titles Font Weight"
+msgstr ""
+
+#: customizer/customizer-fonts.php:166
+msgid "Title Post Font Size"
+msgstr ""
+
+#: customizer/customizer-fonts.php:182
+#, fuzzy
+msgid "Title List Font Size"
+msgstr "Tamaño fuente - título lista"
+
+#: customizer/customizer-fonts.php:198
+#, fuzzy
+msgid "Title Widget Font Size"
+msgstr "Tamaño fuente - título widget"
+
+#: customizer/customizer-fonts.php:211
+msgid "Configuration Header Fonts"
+msgstr ""
+
+#: customizer/customizer-fonts.php:228
+#, fuzzy
+msgid "Header Menu Font"
+msgstr "Fuente - menú"
+
+#: customizer/customizer-fonts.php:246
+msgid "Header Font Weight"
+msgstr ""
+
+#: customizer/customizer-footer.php:15
+#, fuzzy
+msgid "Footer Section"
+msgstr "Pie"
+
+#: customizer/customizer-footer.php:29
+#, fuzzy
+msgid "Footer Boxed"
+msgstr "Pie boxed"
+
+#: customizer/customizer-footer.php:49
+#, fuzzy
+msgid "Show Footer Newsletter"
+msgstr "Mostrar formulario de newsletter en el pie"
+
+#: customizer/customizer-footer.php:66
+#, fuzzy
+msgid "Newsletter Form Title"
+msgstr "Titulo formulario de newsletter"
+
+#: customizer/customizer-footer.php:84
+#, fuzzy
+msgid "Newsletter Form Subtitle"
+msgstr "Subtitulo formulario de newsletter"
+
+#: customizer/customizer-footer.php:104
+msgid "Newsletter Font Color"
+msgstr ""
+
+#: customizer/customizer-footer.php:122
+msgid "Newsletter Background Color"
+msgstr ""
+
+#: customizer/customizer-footer.php:140
+#, fuzzy
+msgid "Upload a Newsletter Background Image"
+msgstr "Subir una imagen para el formulario de newsletter"
+
+#: customizer/customizer-footer.php:161
+#, fuzzy
+msgid "Show Footer Instagram"
+msgstr "Mostrar Instagram"
+
+#: customizer/customizer-footer.php:180
+#, fuzzy
+msgid "Show Footer Widget Area"
+msgstr "Mostrar widget en el pie"
+
+#: customizer/customizer-footer.php:198
+#, fuzzy
+msgid "Footer Layout"
+msgstr "Disposición del pie"
+
+#: customizer/customizer-footer.php:200
+#, fuzzy
+msgid "Configure Footer Layout"
+msgstr "Configure la disposición del pie"
+
+#: customizer/customizer-footer.php:241
+msgid "Title Font Color"
+msgstr ""
+
+#: customizer/customizer-footer.php:260
+#, fuzzy
+msgid "Font Color"
+msgstr "Color fuente"
+
+#: customizer/customizer-footer.php:278
+#, fuzzy
+msgid "Show Footer Copyright Area"
+msgstr "Mostrar Copiright en el pie"
+
+#: customizer/customizer-footer.php:296
+#, fuzzy
+msgid "Upload a Footer logo"
+msgstr "Subir un Logo para el pie"
+
+#: customizer/customizer-footer.php:314
+#, fuzzy
+msgid "Show Social Media"
+msgstr "Mostrar redes sociales"
+
+#: customizer/customizer-footer.php:331
+#, fuzzy
+msgid "Footer Copyright Text"
+msgstr "Texto del Copyright en el pie"
+
+#: customizer/customizer-header.php:15
+#, fuzzy
+msgid "Header Section"
+msgstr "Cabecera"
+
+#: customizer/customizer-header.php:28
+msgid "Header Style"
+msgstr ""
+
+#: customizer/customizer-header.php:30
+msgid "Configure Header Style"
+msgstr ""
+
+#: customizer/customizer-header.php:53
+msgid "Upload a Background Image"
+msgstr ""
+
+#: customizer/customizer-header.php:71
+msgid "Upload a Banner Image"
+msgstr ""
+
+#: customizer/customizer-header.php:87
+msgid "Banner Image Link"
+msgstr ""
+
+#: customizer/customizer-header.php:104
+#, fuzzy
+msgid "Show Searchbox"
+msgstr "Mostrar busqueda"
+
+#: customizer/customizer-header.php:120
+#, fuzzy
+msgid "Show Social Icons"
+msgstr "Mostrar iconos de las redes sociales"
+
+#: customizer/customizer-header.php:133
+msgid "Configuration Primary Menu"
+msgstr ""
+
+#: customizer/customizer-header.php:150
+msgid "Primary Menu Font Size"
+msgstr ""
+
+#: customizer/customizer-header.php:166
+msgid "Primary Submenu Font Size"
+msgstr ""
+
+#: customizer/customizer-header.php:183
+msgid "Primary Menu Background Color"
+msgstr ""
+
+#: customizer/customizer-header.php:201
+msgid "Primary Menu Text Color"
+msgstr ""
+
+#: customizer/customizer-header.php:219
+msgid "Primary Menu Text Color Hover"
+msgstr ""
+
+#: customizer/customizer-header.php:237
+msgid "Primary Menu Submenu Background Color"
+msgstr ""
+
+#: customizer/customizer-header.php:255
+msgid "Primary Menu Submenu Text Color"
+msgstr ""
+
+#: customizer/customizer-header.php:273
+msgid "Primary Menu Submenu Text Color Hover"
+msgstr ""
+
+#: customizer/customizer-header.php:288
+msgid "Configuration Secondary Menu"
+msgstr ""
+
+#: customizer/customizer-header.php:305
+msgid "Secondary Menu Font Size"
+msgstr ""
+
+#: customizer/customizer-header.php:321
+msgid "Secondary Submenu Font Size"
+msgstr ""
+
+#: customizer/customizer-header.php:338
+msgid "Secondary Menu Background Color"
+msgstr ""
+
+#: customizer/customizer-header.php:356
+msgid "Secondary Menu Text Color"
+msgstr ""
+
+#: customizer/customizer-header.php:374
+msgid "Secondary Menu Text Color Hover"
+msgstr ""
+
+#: customizer/customizer-header.php:392
+msgid "Secondary Menu Submenu Background Color"
+msgstr ""
+
+#: customizer/customizer-header.php:410
+msgid "Secondary Menu Submenu Text Color"
+msgstr ""
+
+#: customizer/customizer-header.php:428
+msgid "Secondary Menu Submenu Text Color Hover"
+msgstr ""
+
+#: customizer/customizer-home.php:15
+msgid "Home Section"
+msgstr ""
+
+#: customizer/customizer-home.php:25
+#, fuzzy
+msgid "Configuration Lastest Posts"
+msgstr "Configuración últimas entradas"
+
+#: customizer/customizer-home.php:26
+msgid "Description Configuration Lastest Posts"
+msgstr ""
+
+#: customizer/customizer-home.php:42
+msgid "Sidebar Home"
+msgstr ""
+
+#: customizer/customizer-home.php:44
+#, fuzzy
+msgid "Configure Home Sidebar"
+msgstr "Configure Home Sidebar"
+
+#: customizer/customizer-home.php:63
+#, fuzzy
+msgid "Layout Home"
+msgstr "Home"
+
+#: customizer/customizer-home.php:65
+#, fuzzy
+msgid "Configure Home Layout"
+msgstr "Configure Home"
+
+#: customizer/customizer-page.php:15
+#, fuzzy
+msgid "Pages Settings"
+msgstr "Configuración página"
+
+#: customizer/customizer-page.php:29
+#, fuzzy
+msgid "Sidebar Page"
+msgstr "Sidebar páginas"
+
+#: customizer/customizer-page.php:31
+#, fuzzy
+msgid "Configure Page Sidebar"
+msgstr "Configure Sidebar página"
+
+#: customizer/customizer-page.php:51
+#, fuzzy
+msgid "Layout Page"
+msgstr "Páginas"
+
+#: customizer/customizer-page.php:53
+#, fuzzy
+msgid "Configure Page Layout"
+msgstr "Configure página"
+
+#: customizer/customizer-page.php:73 customizer/customizer-post.php:195
+#, fuzzy
+msgid "Show Comments"
+msgstr "Mostrar comentarios"
+
+#: customizer/customizer-post.php:14
+#, fuzzy
+msgid "Post Settings"
+msgstr "Configuración post"
+
+#: customizer/customizer-post.php:28
+#, fuzzy
+msgid "Sidebar Post"
+msgstr "Sidebar en los post"
+
+#: customizer/customizer-post.php:30
+#, fuzzy
+msgid "Configure Post Sidebar"
+msgstr "Configure el sidebar en los post"
+
+#: customizer/customizer-post.php:87 customizer/customizer-slider.php:140
+#, fuzzy
+msgid "Show Author"
+msgstr "Mostrar autor"
+
+#: customizer/customizer-post.php:105
+#, fuzzy
+msgid "Show Author Box"
+msgstr "Mostrar el autor en un cuadro"
+
+#: customizer/customizer-post.php:123
+#, fuzzy
+msgid "Show Tags"
+msgstr "Mostrar tags"
+
+#: customizer/customizer-post.php:141
+#, fuzzy
+msgid "Show Share Buttons"
+msgstr "Mostrar botones de compartir"
+
+#: customizer/customizer-post.php:159
+#, fuzzy
+msgid "Show Related Posts"
+msgstr "Mostrar post relacionados"
+
+#: customizer/customizer-post.php:177
+#, fuzzy
+msgid "Show Post Navigation"
+msgstr "Mostrar enlaces a post anterior/siguiente"
+
+#: customizer/customizer-post.php:213
+#, fuzzy
+msgid "Show Views"
+msgstr "Mostrar visitas"
+
+#: customizer/customizer-settings.php:21
+msgid "Show Logo"
+msgstr ""
+
+#: customizer/customizer-settings.php:38
+msgid "Upload a Mobile Logo"
+msgstr ""
+
+#: customizer/customizer-settings.php:52
+#, fuzzy
+msgid "Logo Text"
+msgstr "Texto logo"
+
+#: customizer/customizer-settings.php:68
+msgid "Logo Text Color"
+msgstr ""
+
+#: customizer/customizer-settings.php:84
+#, fuzzy
+msgid "Pagination Type"
+msgstr "Paginacíon"
+
+#: customizer/customizer-settings.php:89
+#, fuzzy
+msgid "Classic Type"
+msgstr "Clásica"
+
+#: customizer/customizer-settings.php:90
+#, fuzzy
+msgid "Load More Type"
+msgstr "Cargar más"
+
+#: customizer/customizer-settings.php:91
+#, fuzzy
+msgid "Numeric"
+msgstr "Numérica"
+
+#: customizer/customizer-settings.php:106
+msgid "Pattern"
+msgstr ""
+
+#: customizer/customizer-slider.php:15
+#, fuzzy
+msgid "Home Slider Settings"
+msgstr "Configuración Home slider"
+
+#: customizer/customizer-slider.php:29
+#, fuzzy
+msgid "Show Slider"
+msgstr "Mostrar slider"
+
+#: customizer/customizer-slider.php:45
+#, fuzzy
+msgid "Boxed Slider"
+msgstr "Slider en boxed"
+
+#: customizer/customizer-slider.php:61
+#, fuzzy
+msgid "Hide Slider in mobile"
+msgstr "Ocultar Slider en versión movil"
+
+#: customizer/customizer-slider.php:77
+msgid "Slider Height"
+msgstr ""
+
+#: customizer/customizer-slider.php:98
+#, fuzzy
+msgid "Slider Transition"
+msgstr "Transición Slider"
+
+#: customizer/customizer-slider.php:104
+msgid "Slide Effect"
+msgstr ""
+
+#: customizer/customizer-slider.php:105
+msgid "Fade Effect"
+msgstr ""
+
+#: customizer/customizer-slider.php:106
+msgid "Cube Effect"
+msgstr ""
+
+#: customizer/customizer-slider.php:107
+msgid "Coverflow Effect"
+msgstr ""
+
+#: customizer/customizer-slider.php:123
+msgid "Autoplay Slider"
+msgstr ""
+
+#: customizer/customizer-slider.php:190
+#, fuzzy
+msgid "Title Slider Font Size"
+msgstr "Tamaño fuente - título Slider"
+
+#: customizer/customizer-slider.php:203
+#, fuzzy
+msgid "Posts Slider"
+msgstr "Post en el Slider"
+
+#: customizer/customizer-slider.php:208
+#, fuzzy
+msgid "Your latest posts"
+msgstr "Últimos post"
+
+#: customizer/customizer-slider.php:210 customizer/customizer-slider.php:242
+#, fuzzy
+msgid "Select Posts"
+msgstr "Seleccione post"
+
+#: customizer/customizer-slider.php:224
+#, fuzzy
+msgid "Category"
+msgstr "Categoría"
+
+#: customizer/customizer-slider.php:260
+#, fuzzy
+msgid "Number posts"
+msgstr "Número de post"
+
+#: customizer/customizer-slider.php:261
+#, fuzzy
+msgid "Number of posts if you select Latest posts or Category "
+msgstr "Numero de post si selecciona \"Últimos post\""
+
+#: customizer/customizer-social-media.php:15
+#, fuzzy
+msgid "Social Media Settings"
+msgstr "Configuración redes sociales"
+
+#: customizer/customizer-social-media.php:174
+#, fuzzy
+msgid " (Use full URL to your Linkedin profile)"
+msgstr "(Utilice la URL completa dea su perfil de Linkedin)"
+
+#: customizer/customizer-woocommerce.php:15
+msgid "Woocommerce Settings"
+msgstr ""
+
+#: customizer/customizer-woocommerce.php:29
+msgid "Sidebar Woocommerce Products/List"
+msgstr ""
+
+#: customizer/customizer-woocommerce.php:31
+msgid "Configure Woocommerce Products/List Sidebar"
+msgstr ""
+
+#: customizer/customizer-woocommerce.php:51
+msgid "Sidebar Woocommerce"
+msgstr ""
+
+#: customizer/customizer-woocommerce.php:53
+msgid "Configure Woocommerce Sidebar"
+msgstr ""
+
+#: customizer/customizer.php:35
+#, fuzzy
+msgid "General  Settings"
+msgstr "Ajustes generales"
+
+#: functions.php:24
+#, fuzzy
+msgid "Primary Navigation"
+msgstr "Menú principal"
+
+#: functions.php:25
+msgid "Secondary Navigation"
+msgstr ""
+
+#: functions.php:113
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:121
+msgid "Sidebar (Detail Page)"
+msgstr ""
+
+#: functions.php:129
+msgid "Sidebar (Woocommerce)"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:145
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:153
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:161
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:169
+msgid "Instagram Footer"
+msgstr ""
+
+#: functions.php:219 functions.php:220 functions.php:221
+msgctxt " font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:289 templates/header-1.php:104 templates/header-2.php:139
+#: templates/header-2.php:308 templates/header-3.php:139
+#: templates/header-3.php:307 templates/header-4.php:137
+#: templates/header-4.php:318
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "Instalar plugins requeridos"
+
+#: inc/class-tgm-plugin-activation.php:335
+#, fuzzy
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/class-tgm-plugin-activation.php:337
+#, fuzzy, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugins: %s"
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+#, fuzzy
+msgid "Required"
+msgstr "Obligatorio"
+
+#: inc/class-tgm-plugin-activation.php:2361
+#, fuzzy
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+#, fuzzy
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+#, fuzzy
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2638
+#, fuzzy
+msgid "Version"
+msgstr "Versión"
+
+#: inc/class-tgm-plugin-activation.php:2639
+#, fuzzy
+msgid "Status"
+msgstr "Estado"
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+#, fuzzy
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2808
+#, fuzzy
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/class-tgm-plugin-activation.php:2811
+#, fuzzy
+msgid "Activate"
+msgstr "Activado"
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3243
+#, fuzzy
+msgid "Plugin activation failed."
+msgstr "La activación de plugin ha fallado"
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+#, fuzzy
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+#, fuzzy
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/meta-box-config.php:55
+msgid "Gallery Options"
+msgstr ""
+
+#: inc/meta-box-config.php:73
+msgid "Gallery Layout"
+msgstr ""
+
+#: inc/meta-box-config.php:77
+msgid "Select A Type"
+msgstr ""
+
+#: inc/meta-box-config.php:81
+msgid "Slideshow"
+msgstr ""
+
+#: inc/meta-box-config.php:82
+msgid "Thumbnail Gallery"
+msgstr ""
+
+#: inc/meta-box-config.php:87
+msgid "Images for That Gallery"
+msgstr ""
+
+#: inc/meta-box-config.php:97
+msgid "Row Height"
+msgstr ""
+
+#: inc/meta-box-config.php:112
+msgid "Video Options"
+msgstr ""
+
+#: inc/meta-box-config.php:130
+msgid "Video Types"
+msgstr ""
+
+#: inc/meta-box-config.php:134
+msgid "Select A Video Type"
+msgstr ""
+
+#: inc/meta-box-config.php:139 inc/meta-box-config.php:146
+msgid "HTML5 Native Video"
+msgstr ""
+
+#: inc/meta-box-config.php:140
+msgid "Embed Video (Youtube, Vimeo etc)"
+msgstr ""
+
+#: inc/meta-box-config.php:151
+msgid "MP4 File Upload"
+msgstr ""
+
+#: inc/meta-box-config.php:159
+msgid "WEBM File Upload"
+msgstr ""
+
+#: inc/meta-box-config.php:167
+msgid "OGV File Upload"
+msgstr ""
+
+#: inc/meta-box-config.php:177
+msgid "Embed Video"
+msgstr ""
+
+#: inc/meta-box-config.php:182
+msgid "Embed Video URL"
+msgstr ""
+
+#: inc/meta-box-config.php:195
+msgid "Audio Options"
+msgstr ""
+
+#: inc/meta-box-config.php:213
+msgid "Audio Types"
+msgstr ""
+
+#: inc/meta-box-config.php:217
+msgid "Select An Audio Type"
+msgstr ""
+
+#: inc/meta-box-config.php:222 inc/meta-box-config.php:229
+msgid "HTML5 Native Audio"
+msgstr ""
+
+#: inc/meta-box-config.php:223
+msgid "Embed Audio (SoundCloud etc.)"
+msgstr ""
+
+#: inc/meta-box-config.php:235
+msgid "Audio Properties"
+msgstr ""
+
+#: inc/meta-box-config.php:240
+msgid "Audio MP3 File Upload"
+msgstr ""
+
+#: inc/meta-box-config.php:248
+msgid "Audio OGA File Upload"
+msgstr ""
+
+#: inc/meta-box-config.php:257
+msgid "Embed Audio"
+msgstr ""
+
+#: inc/meta-box-config.php:262
+msgid "Embed Audio URL"
+msgstr ""
+
+#: inc/meta-box-config.php:275
+msgid "Quote Options"
+msgstr ""
+
+#: inc/meta-box-config.php:292
+msgid "Quote Author"
+msgstr ""
+
+#: inc/post-like.php:173 inc/post-like.php:233
+msgid "You Like:"
+msgstr ""
+
+#: inc/post-like.php:197
+msgid "You don't like anything yet."
+msgstr ""
+
+#: inc/post-like.php:272
+msgid "Today's Most Popular Posts"
+msgstr ""
+
+#: inc/post-like.php:311
+msgid "This Month's Most Popular Posts"
+msgstr ""
+
+#: inc/post-like.php:350
+msgid "This Week's Most Popular Posts"
+msgstr ""
+
+#: inc/post-like.php:369
+msgid "Most Popular Posts"
+msgstr ""
+
+#: inc/register-plugins.php:15
+msgid "Meta Box"
+msgstr ""
+
+#: inc/register-plugins.php:21
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/register-plugins.php:27
+msgid "Wp Instagram Widget"
+msgstr ""
+
+#: inc/register-plugins.php:33
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/register-plugins.php:39
+msgid "Recent Tweets Widget"
+msgstr ""
+
+#: inc/register-plugins.php:45
+msgid "Wp Maintenance Mode"
+msgstr ""
+
+#: inc/register-plugins.php:51
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/register-plugins.php:57
+msgid "The Events Calendar"
+msgstr ""
+
+#: inc/theme-functions.php:92
+msgid "Older Posts"
+msgstr ""
+
+#: inc/theme-functions.php:93
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/theme-functions.php:98
+#, fuzzy
+msgid "Want to See More Stories?"
+msgstr "¿Quieres ver más historias?"
+
+#: inc/theme-functions.php:122
+#, fuzzy
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: inc/theme-functions.php:123
+#, fuzzy
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: inc/theme-functions.php:150
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/theme-functions.php:152
+msgid "Comment awaiting approval"
+msgstr ""
+
+#: inc/theme-functions.php:158
+msgid "Reply"
+msgstr "Contestar"
+
+#: inc/theme-functions.php:159
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/theme-functions.php:178
+msgid "Wiew"
+msgstr "Vista"
+
+#: inc/theme-functions.php:180
+msgid "Wiews"
+msgstr "Visitas"
+
+#: inc/theme-functions.php:200
+msgid "Twitter Username"
+msgstr ""
+
+#: inc/theme-functions.php:201
+msgid "Facebook Username"
+msgstr ""
+
+#: inc/theme-functions.php:202
+msgid "Google Plus Username"
+msgstr ""
+
+#: inc/theme-functions.php:203
+msgid "Tumblr Username"
+msgstr ""
+
+#: inc/theme-functions.php:204
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/theme-functions.php:205
+msgid "Pinterest Username"
+msgstr ""
+
+#: search.php:13
+msgid "Search results for"
+msgstr ""
+
+#: search.php:50
+msgid "Sorry, no posts were found. Try searching for something else."
+msgstr ""
+
+#: searchform.php:2
+msgid "Search and hit enter..."
+msgstr ""
+
+#: tag.php:9
+#, fuzzy, php-format
+msgid "Posts for <strong>%s</strong> Tag"
+msgstr "Posts para la tag <strong>%s</strong>"
+
+#: templates/header-1.php:113 templates/header-2.php:180
+#: templates/header-3.php:178 templates/header-4.php:174
+msgid "Start Typing and Hit Enter..."
+msgstr ""
+
+#: templates/layout-full.php:47
+#, fuzzy
+msgid "Written by"
+msgstr "Escrito por"
+
+#: templates/layout-full.php:51
+msgid "in"
+msgstr ""
+
+#: templates/layout-full.php:69 templates/layout-list.php:46
+#: templates/layout-list.php:74
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: templates/layout-full.php:87
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: templates/layout-full.php:120
+msgid "AUTHOR"
+msgstr "AUTOR"
+
+#: templates/layout-full.php:196
+msgid "Previous Post"
+msgstr "Post anterior"
+
+#: templates/layout-full.php:204
+msgid "Next Post"
+msgstr "Siguiente post"
+
+#: tribe-events/day/nav.php:17
+msgid "Day Navigation"
+msgstr ""
+
+#: tribe-events/day/single-event.php:65 tribe-events/list/single-event.php:75
+msgid "Find out more"
+msgstr ""
+
+#: tribe-events/list/nav.php:20
+#, php-format
+msgid "%s List Navigation"
+msgstr ""
+
+#: tribe-events/list/nav.php:26
+#, php-format
+msgid "Previous %s"
+msgstr ""
+
+#: tribe-events/list/nav.php:34
+#, php-format
+msgid "Next %s"
+msgstr ""
+
+#: tribe-events/modules/bar.php:30 tribe-events/modules/bar.php:61
+#, php-format
+msgid "Find %s"
+msgstr ""
+
+#: tribe-events/modules/bar.php:37
+msgid "Event Views Navigation"
+msgstr ""
+
+#: tribe-events/modules/bar.php:38
+msgid "View As"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:48
+msgid "Time:"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:55
+msgid "Details"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:65
+#: tribe-events/modules/meta/details.php:90
+msgid "Start:"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:70
+#: tribe-events/modules/meta/details.php:95
+msgid "End:"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:80
+#: tribe-events/modules/meta/details.php:105
+#: woocommerce/checkout/thankyou.php:46
+#, fuzzy
+msgid "Date:"
+msgstr "Fecha:"
+
+#: tribe-events/modules/meta/details.php:123
+msgid "Cost:"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:142
+#, php-format
+msgid "%s Tags:"
+msgstr ""
+
+#: tribe-events/modules/meta/details.php:148
+#: tribe-events/modules/meta/organizer.php:64
+#: tribe-events/modules/meta/venue.php:45
+msgid "Website:"
+msgstr ""
+
+#: tribe-events/modules/meta/organizer.php:42
+#: tribe-events/modules/meta/venue.php:40
+msgid "Phone:"
+msgstr ""
+
+#: tribe-events/modules/meta/organizer.php:53
+#: woocommerce/order/order-details-customer.php:35
+msgid "Email:"
+msgstr ""
+
+#: tribe-events/month/nav.php:19
+msgid "Calendar Month Navigation"
+msgstr ""
+
+#: tribe-events/single-event.php:28
+#, php-format
+msgctxt "%s Events plural label"
+msgid "All %s"
+msgstr ""
+
+#: tribe-events/single-event.php:45 tribe-events/single-event.php:78
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:76
+#, php-format
+msgid "View All %s"
+msgstr ""
+
+#: tribe-events/widgets/list-widget.php:82
+#, php-format
+msgid "There are no upcoming %s at this time."
+msgstr ""
+
+#: widgets/wgt_about_me.php:20
+msgid "elletta - About Me"
+msgstr ""
+
+#: widgets/wgt_about_me.php:22
+#, fuzzy
+msgid "A widget that displays an about me content"
+msgstr "Un widget que muestra un contenido de mí"
+
+#: widgets/wgt_about_me.php:127 widgets/wgt_ads.php:92
+#: widgets/wgt_facebook.php:101 widgets/wgt_latest_posts.php:121
+#: widgets/wgt_latest_posts_category.php:159 widgets/wgt_promo_box.php:139
+#, fuzzy
+msgid "Title:"
+msgstr "Título:"
+
+#: widgets/wgt_about_me.php:133
+#, fuzzy
+msgid "SubTitle:"
+msgstr "Subtítulo:"
+
+#: widgets/wgt_about_me.php:139 widgets/wgt_ads.php:98
+#: widgets/wgt_promo_box.php:145
+#, fuzzy
+msgid "Image:"
+msgstr "Imagen:"
+
+#: widgets/wgt_about_me.php:142 widgets/wgt_ads.php:101
+#: widgets/wgt_promo_box.php:148
+#, fuzzy
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: widgets/wgt_about_me.php:143 widgets/wgt_ads.php:102
+#: widgets/wgt_promo_box.php:149
+#, fuzzy
+msgid "Remove"
+msgstr "Quitar"
+
+#: widgets/wgt_about_me.php:144 widgets/wgt_ads.php:103
+#: widgets/wgt_promo_box.php:150
+#, fuzzy
+msgid "Image width should be 300px min."
+msgstr "El tamaño de la imagen debe de ser menor que 300px"
+
+#: widgets/wgt_about_me.php:150 widgets/wgt_latest_posts.php:153
+#, fuzzy
+msgid "Round Image?"
+msgstr "Redondear imagen"
+
+#: widgets/wgt_about_me.php:155
+#, fuzzy
+msgid "About Me Text:"
+msgstr "Texto:"
+
+#: widgets/wgt_about_me.php:161
+#, fuzzy
+msgid "More Text:"
+msgstr "Leer más:"
+
+#: widgets/wgt_about_me.php:167
+#, fuzzy
+msgid "More Link URL:"
+msgstr "Enlace \"leer más\""
+
+#: widgets/wgt_about_me.php:169
+#, fuzzy
+msgid "Insert your about me detail page Url"
+msgstr "Inserte la ULR de página"
+
+#: widgets/wgt_ads.php:20
+msgid "elletta - Ads Widget"
+msgstr ""
+
+#: widgets/wgt_ads.php:22
+msgid "Allows you to add a advertisement image."
+msgstr ""
+
+#: widgets/wgt_ads.php:108
+#, fuzzy
+msgid "Link Url:"
+msgstr "Enlace URL:"
+
+#: widgets/wgt_facebook.php:20
+msgid "elletta - Facebook Like Box"
+msgstr ""
+
+#: widgets/wgt_facebook.php:22
+msgid "A widget that displays a Facebook Like Box"
+msgstr ""
+
+#: widgets/wgt_facebook.php:107
+#, fuzzy
+msgid "Facebook Page URL:"
+msgstr "ULR página Facebook:"
+
+#: widgets/wgt_facebook.php:109
+msgid "EG"
+msgstr ""
+
+#: widgets/wgt_facebook.php:114
+#, fuzzy
+msgid "Show Faces:"
+msgstr "Mostrar fotos perfil:"
+
+#: widgets/wgt_facebook.php:120
+#, fuzzy
+msgid "Show Stream:"
+msgstr "Mostrar muro:"
+
+#: widgets/wgt_facebook.php:126
+msgid "Box Width:"
+msgstr ""
+
+#: widgets/wgt_facebook.php:132
+msgid "Box Height:"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:17
+msgid "elletta - Latest Post"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:19
+msgid "Allows you to display recent posts with featured image"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:79
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:126
+msgid "Number of posts:"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:138
+msgid "Show Date?"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:143
+msgid "Show Categories?"
+msgstr ""
+
+#: widgets/wgt_latest_posts.php:148
+#, fuzzy
+msgid "Show Excerpt?"
+msgstr "Mostrar extracto"
+
+#: widgets/wgt_latest_posts_category.php:20
+msgid "elletta - Category Posts with Image"
+msgstr ""
+
+#: widgets/wgt_latest_posts_category.php:22
+msgid "A widget that displays a category posts with image"
+msgstr ""
+
+#: widgets/wgt_latest_posts_category.php:165
+#, fuzzy
+msgid "Filter by Category:"
+msgstr "Elige categoría:"
+
+#: widgets/wgt_latest_posts_category.php:167
+#, fuzzy
+msgid "All categories"
+msgstr "Todas las categorías"
+
+#: widgets/wgt_latest_posts_category.php:177
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Número de post:"
+
+#: widgets/wgt_promo_box.php:27
+msgid "elletta - Promo Box"
+msgstr ""
+
+#: widgets/wgt_promo_box.php:29
+msgid "A widget that display your content as promo box"
+msgstr ""
+
+#: widgets/wgt_promo_box.php:155
+#, fuzzy
+msgid "Height of The Box:"
+msgstr "Tamaño de la caja:"
+
+#: widgets/wgt_promo_box.php:161
+#, fuzzy
+msgid "Mini Text For Promo Box:"
+msgstr "Texto dentro de la caja:"
+
+#: widgets/wgt_promo_box.php:167
+#, fuzzy
+msgid "Detail Link Text:"
+msgstr "Texto URL de la caja:"
+
+#: widgets/wgt_promo_box.php:173
+#, fuzzy
+msgid "Detail Link URL:"
+msgstr "URL de la caja:"
+
+#: widgets/wgt_promo_box.php:179
+#, fuzzy
+msgid "Text Color:"
+msgstr "Color texto"
+
+#: widgets/wgt_promo_box.php:184
+#, fuzzy
+msgid "Text Color Hover:"
+msgstr "Hover color texto:"
+
+#: widgets/wgt_social_media.php:20
+msgid "elletta - Social Media Icons"
+msgstr ""
+
+#: widgets/wgt_social_media.php:22
+msgid "A widget that displays your social network"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:28
+#, fuzzy
+msgid "Your cart is currently empty."
+msgstr "Su carrito está vacío."
+
+#: woocommerce/cart/cart-empty.php:36
+#, fuzzy
+msgid "Return To Shop"
+msgstr "Volver a la tienda"
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/cart/mini-cart.php:80 woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+#, fuzzy
+msgid "Shipping"
+msgstr "Envío"
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:120
+#: woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+#: woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:79
+#: woocommerce/checkout/form-pay.php:29
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/order/order-details.php:32
+#, fuzzy
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:97
+#, fuzzy
+msgid "Price"
+msgstr "Precio"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:103
+#, fuzzy
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: woocommerce/cart/cart.php:60 woocommerce/cart/mini-cart.php:49
+#, fuzzy
+msgid "Remove this item"
+msgstr "Eliminar este producto"
+
+#: woocommerce/cart/cart.php:92
+#, fuzzy
+msgid "Available on backorder"
+msgstr "Disponible bajo pedido"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138 woocommerce/checkout/form-coupon.php:36
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138 woocommerce/checkout/form-coupon.php:40
+#, fuzzy
+msgid "Apply Coupon"
+msgstr "Aplicar cupón"
+
+#: woocommerce/cart/cart.php:144
+#, fuzzy
+msgid "Update Cart"
+msgstr "Actualizar carrito"
+
+#: woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:72
+#, fuzzy
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:85
+#, fuzzy
+msgid "View Cart"
+msgstr "Ver Carrito"
+
+#: woocommerce/cart/mini-cart.php:86
+#, fuzzy
+msgid "Checkout"
+msgstr "Pagar"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/cart/shipping-calculator.php:62
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:83
+#, fuzzy
+msgid "City"
+msgstr "Ciudad"
+
+#: woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:96
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/cart-errors.php:27
+#, fuzzy
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Hay algunos problemas con los artículos del carrito. Por favor, vaya al "
+"carrito y resuelva estos problemas antes de salir."
+
+#: woocommerce/checkout/cart-errors.php:31
+msgid "Return To Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:52
+#, fuzzy
+msgid "Create an account?"
+msgstr "Crear una cuenta?"
+
+#: woocommerce/checkout/form-billing.php:63
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+#, fuzzy
+msgid "You must be logged in to checkout."
+msgstr "Debes de estar logueado para finalizar."
+
+#: woocommerce/checkout/form-checkout.php:55
+#, fuzzy
+msgid "Your order"
+msgstr "Su Pedido"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:28
+#, fuzzy
+msgid "Click here to login"
+msgstr "Loguearse"
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-pay.php:30
+#, fuzzy
+msgid "Qty"
+msgstr "Cantidad"
+
+#: woocommerce/checkout/form-pay.php:31
+#, fuzzy
+msgid "Totals"
+msgstr "Total"
+
+#: woocommerce/checkout/form-pay.php:79
+#, fuzzy
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Lo sentimos, parece que no existen métodos de pago disponibles para su "
+"ubicación. Por favor, póngase en contacto con nosotros si necesita ayuda."
+
+#: woocommerce/checkout/form-shipping.php:28
+#, fuzzy
+msgid "Ship to a different address?"
+msgstr "¿Enviar a una dirección diferente?"
+
+#: woocommerce/checkout/form-shipping.php:54
+#: woocommerce/single-product/tabs/additional-information.php:25
+#, fuzzy
+msgid "Additional Information"
+msgstr "Información adicional"
+
+#: woocommerce/checkout/payment.php:35
+#, fuzzy
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no existen métodos de pago disponibles para su "
+"ciudad. Por favor, póngase en contacto con nosotros si necesita ayuda."
+
+#: woocommerce/checkout/payment.php:35
+#, fuzzy
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Por favor, rellene sus datos arriba para ver los métodos de pago disponibles."
+
+#: woocommerce/checkout/payment.php:42
+#, fuzzy
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Debido a que su navegador no soporta JavaScript o lo tiene deshabilitado, "
+"asegúrese de hacer clic en el botón <em>Actualizar Totales</ em> antes de "
+"realizar su pedido. Se le puede cobrar más de la cantidad indicada arriba si "
+"no lo hace."
+
+#: woocommerce/checkout/payment.php:43
+#, fuzzy
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#: woocommerce/checkout/terms.php:17
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:27
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#, fuzzy
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/checkout/thankyou.php:32
+#, fuzzy
+msgid "My Account"
+msgstr "Mi cuenta"
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:69
+#, fuzzy
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Su pedido ha sido recibido."
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+#, fuzzy
+msgid "Username or email"
+msgstr "Usuario o email"
+
+#: woocommerce/global/form-login.php:39
+#, fuzzy
+msgid "Password"
+msgstr "Contraseña"
+
+#: woocommerce/global/form-login.php:48
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51
+#, fuzzy
+msgid "Remember me"
+msgstr "Recordar"
+
+#: woocommerce/global/form-login.php:55
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+#, fuzzy
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Cantidad"
+
+#: woocommerce/loop/no-products-found.php:24
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:39
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/sale-flash.php:28
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:29
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"the \"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:31
+#, fuzzy
+msgid "Order ID"
+msgstr "ID pedido"
+
+#: woocommerce/order/form-tracking.php:31
+#, fuzzy
+msgid "Found in your order confirmation email."
+msgstr "Se encuentra en el correo electrónico de confirmación de pedido."
+
+#: woocommerce/order/form-tracking.php:32
+#, fuzzy
+msgid "Billing Email"
+msgstr "Correo electrónico de facturación"
+
+#: woocommerce/order/form-tracking.php:32
+#, fuzzy
+msgid "Email you used during checkout."
+msgstr "Correo electrónico que utilizó durante el pago."
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr ""
+
+#: woocommerce/order/order-again.php:25
+msgid "Order Again"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:23
+msgid "Customer Details"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:28
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:42
+#, fuzzy
+msgid "Telephone:"
+msgstr "Teléfono:"
+
+#: woocommerce/order/order-details-customer.php:58
+#, fuzzy
+msgid "Billing Address"
+msgstr "Dirección de facturación"
+
+#: woocommerce/order/order-details-customer.php:61
+#: woocommerce/order/order-details-customer.php:72
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:69
+#, fuzzy
+msgid "Shipping Address"
+msgstr "Dirección de envío"
+
+#: woocommerce/order/order-details.php:28
+#, fuzzy
+msgid "Order Details"
+msgstr "Detalles del pedido"
+
+#: woocommerce/order/tracking.php:26
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/order/tracking.php:34
+#, fuzzy
+msgid "Order Updates"
+msgstr "Actualización del pedido"
+
+#: woocommerce/order/tracking.php:40
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+#, fuzzy
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: woocommerce/product-searchform.php:28
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:28
+#, fuzzy
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: woocommerce/product-searchform.php:29
+#, fuzzy
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:35
+#, fuzzy
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: woocommerce/single-product-reviews.php:56
+#, fuzzy
+msgid "There are no reviews yet."
+msgstr "No hay comentarios."
+
+#: woocommerce/single-product-reviews.php:69
+#, fuzzy
+msgid "Add a review"
+msgstr "Añadir comentario"
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, fuzzy, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja un comentario a %s"
+
+#: woocommerce/single-product-reviews.php:73
+#, fuzzy
+msgid "Name"
+msgstr "Nombre"
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, fuzzy
+msgid "Submit"
+msgstr "Enviar"
+
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+#, fuzzy
+msgid "Your Rating"
+msgstr "Tu puntuación"
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+#, fuzzy
+msgid "Perfect"
+msgstr "Perfecto"
+
+#: woocommerce/single-product-reviews.php:91
+#, fuzzy
+msgid "Good"
+msgstr "Bueno"
+
+#: woocommerce/single-product-reviews.php:92
+#, fuzzy
+msgid "Average"
+msgstr "Promedio"
+
+#: woocommerce/single-product-reviews.php:93
+#, fuzzy
+msgid "Not that bad"
+msgstr "No está mal"
+
+#: woocommerce/single-product-reviews.php:94
+#, fuzzy
+msgid "Very Poor"
+msgstr "Muy pobre"
+
+#: woocommerce/single-product-reviews.php:98
+#, fuzzy
+msgid "Your Review"
+msgstr "Su comentario"
+
+#: woocommerce/single-product-reviews.php:107
+#, fuzzy
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Sólo los clientes que hayan adquirido este producto puede dejar un "
+"comentario."
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+#, fuzzy
+msgid "This product is currently out of stock and unavailable."
+msgstr "Este producto se encuentra actualmente fuera de stock y no disponible."
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+#, fuzzy
+msgid "Clear"
+msgstr "Vaciar"
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-attributes.php:38
+#, fuzzy
+msgid "Weight"
+msgstr "Peso"
+
+#: woocommerce/single-product/product-attributes.php:45
+#, fuzzy
+msgid "Dimensions"
+msgstr "Dimensiones"
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:51
+#, fuzzy
+msgid "Related Products"
+msgstr "Productos relacionados"
+
+#: woocommerce/single-product/review-meta.php:28
+#, fuzzy
+msgid "Your comment is awaiting approval"
+msgstr "Tu comentario está pendiente de aprobación"
+
+#: woocommerce/single-product/review-meta.php:36
+#, fuzzy
+msgid "verified owner"
+msgstr "propietario verificado"
+
+#: woocommerce/single-product/review-rating.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:48
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "elletta"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://elletta.tuweb4.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Modern, Creative Wordpress Blog Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tuweb4"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.tuweb4.com"
+msgstr ""

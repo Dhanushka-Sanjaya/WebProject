@@ -1,0 +1,309 @@
+/**************************************************/
+/** CUSTOM STYLING FOR THE WORDPRESS CUSTOMIZER ***/
+/**************************************************/
+#customize-control-menu_text_color_hover {
+	border-bottom:1px solid #e7e7e7;
+	padding-bottom:10px;
+}
+
+#customize-control-homepage_layout {
+	border-bottom:1px solid #e7e7e7;
+	padding-bottom:10px;
+}
+
+.customize-control-background .actions, .customize-control-header .actions, .customize-control-image .actions, .customize-control-upload .actions {
+	margin-bottom: 0;
+}
+
+.customize-control {
+	border-bottom: 1px solid #eee;
+}
+
+.customize-control-title {
+	font-size: 13px;
+}
+
+.customize-control-info .customize-control-title {
+	font-size: 16px;
+        color: #42A5F5;
+}
+
+.customize-control-image, .customize-control-select_category, .customize-control-select_fonts{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.customize-control-number {
+    padding-bottom: 10px;
+}
+
+ul.accordion-section-content > .customize-control:last-child {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+#customize-theme-controls .accordion-section-content {
+	background-color:#fcfcfc;
+}
+
+#customize-theme-controls .accordion-section-title {
+	text-transform: uppercase;
+	font-size: 11px;
+	margin: 0;
+}
+
+#customize-theme-controls .panel-meta.customize-info .accordion-section-title {
+    margin-left: 48px;
+}
+
+#customize-info .accordion-section-title:focus, #customize-info .accordion-section-title:hover, #customize-info.open .accordion-section-title, #customize-theme-controls .control-section .accordion-section-title:focus, #customize-theme-controls .control-section .accordion-section-title:hover, #customize-theme-controls .control-section.open .accordion-section-title, #customize-theme-controls .control-section:hover>.accordion-section-title {
+	background-color:#111;
+	color:#fff;
+	border-bottom-color:#111;
+	border-top-color:#111;
+	-o-transition: .3s;
+	-ms-transition: .3s;
+	-moz-transition: .3s;
+	-webkit-transition: .3s;
+}
+
+#customize-theme-controls .control-section .accordion-section-title:focus:after, #customize-theme-controls .control-section .accordion-section-title:hover:after, #customize-theme-controls .control-section.open .accordion-section-title:after, #customize-theme-controls .control-section:hover>.accordion-section-title:after,
+#customize-info .accordion-section-title:focus:after, #customize-info .accordion-section-title:hover:after, #customize-info.open .accordion-section-title:after {
+	color:#fff;
+}
+
+.menu-item-handle, .widget .widget-top {
+	background-color:#fff;
+}
+
+.accordion-section-content {
+	padding: 20px;
+}
+
+.wp-full-overlay-sidebar {
+	width: 350px;
+}
+
+.wp-full-overlay.expanded {
+	margin-left: 350px;
+}
+
+#customize-theme-controls .control-section.control-panel>h3.accordion-section-title:focus:after, #customize-theme-controls .control-section.control-panel>h3.accordion-section-title:hover:after{
+	background: #111;
+	color: #fff;
+	border:none;
+	top:12px;
+	-o-transition: .3s;
+	-ms-transition: .3s;
+	-moz-transition: .3s;
+	-webkit-transition: .3s;
+
+}
+/* Layout_Control in Customize screen */
+#customize-controls .customize-control-layout_control img {
+    max-width: 20%;
+}
+.of-radio-img-img {
+	border:3px solid #f9f9f9;
+	margin:0 5px 10px 0;
+	cursor:pointer;
+	float:left;
+}
+.of-radio-img-selected {
+	border:3px solid #E93750
+}
+.of-radio-img-img:hover {
+	opacity:.8;
+}
+/* Toggle_Checkbox_Custom_control */
+.onoffswitch_label{
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 20px;
+        margin-top: -1px;
+}
+
+.onoffswitch {
+        position: relative;
+        width: 40px;
+        display: inline-block;
+        -webkit-user-select:none;
+        -moz-user-select:none;
+        -ms-user-select: none;
+}
+
+.onoffswitch-checkbox {
+        display: none!important;
+}
+
+.onoffswitch-label {
+        display: block;
+        overflow: hidden;
+        cursor: pointer;
+        height: 18px;
+        padding: 0;
+        line-height: 18px;
+        border: 2px solid #FFFFFF;
+        border-radius: 18px;
+        background-color: #9E9E9E;
+        transition: background-color 0.2s ease-in;
+}
+
+.onoffswitch-label:before {
+        content: "";
+        display: block;
+        width: 18px;
+        margin: 0;
+        background: #EBEBEB;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        right: 20px;
+        border: 2px solid #FFFFFF;
+        border-radius: 18px;
+        transition: all 0.2s ease-in 0s;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label {
+        background-color: #42A5F5;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label,
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+        border-color: #42A5F5;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label:before {
+        right: 0;
+}
+
+/* Social Media */
+.social-media .fa{
+        font-size: 20px;    
+        padding-right: 2px;
+}
+.elletta_twitter{color:#5EA9DD;}
+.elletta_instagram{color:#2A5B83;}
+.elletta_pinterest{color:#D70004;}
+.elletta_google_plus{color:#C30907;}
+.elletta_tumblr{color:#34465D;}
+.elletta_youtube{color:#CC181E;}
+.elletta_linkedin{color:#0274B3;}
+.elletta_bloglovin{color:#000000;}
+.elletta_facebook{color:#3A5795;}
+
+.customize-control-social_media{    
+    border: 1px dashed #b4b9be !important;
+    padding: 10px !important;
+    box-sizing: border-box;
+    margin-bottom: 5px !important;
+}
+
+.SumoSelect {width: 95%;}
+.slider span {
+    margin-top: -3px;
+    position: absolute;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: 700;
+}
+input[type=range]{
+    -webkit-appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    width: 80%;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: goldenrod;
+    margin-top: -4px;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #ccc;
+}
+input[type=range]{
+    /* fix for FF unable to apply focus style bug  */
+    border: 1px solid white; 
+
+    /*required for proper track sizing in FF*/
+    width: 80%;
+}
+
+input[type=range]::-moz-range-track {
+    width: 80%;
+    height: 5px;
+    background: #ddd;
+    border: none;
+    border-radius: 3px;
+}
+
+input[type=range]::-moz-range-thumb {
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: goldenrod;
+}
+
+/*hide the outline behind the border*/
+input[type=range]:-moz-focusring{
+    outline: 1px solid white;
+    outline-offset: -1px;
+}
+
+input[type=range]:focus::-moz-range-track {
+    background: #ccc;
+}
+
+
+input[type=range]::-ms-track {
+    width: 80%;
+    height: 5px;
+    
+    /*remove bg colour from the track, we'll use ms-fill-lower and ms-fill-upper instead */
+    background: transparent;
+    
+    /*leave room for the larger thumb to overflow with a transparent border */
+    border-color: transparent;
+    border-width: 6px 0;
+
+    /*remove default tick marks*/
+    color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+    background: #777;
+    border-radius: 10px;
+}
+input[type=range]::-ms-fill-upper {
+    background: #ddd;
+    border-radius: 10px;
+}
+input[type=range]::-ms-thumb {
+    border: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background: goldenrod;
+}
+input[type=range]:focus::-ms-fill-lower {
+    background: #888;
+}
+input[type=range]:focus::-ms-fill-upper {
+    background: #ccc;
+}
